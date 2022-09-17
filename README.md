@@ -21,4 +21,4 @@ Face Verification "Is this the claimed person?" For example, at some airports, y
 Face Recognition "Who is this person?" For example, the video lecture showed a face recognition video of Baidu employees entering the office without needing to otherwise identify themselves. This is a 1:K matching problem.
 
 
-warning: I had this assignment so if you are already in the same course please dont check the solutions.
+warning: I had this assignment in coursera.org so if you are already in the same course please dont check the solutions.
